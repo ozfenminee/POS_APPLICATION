@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Card, Modal, Table } from "antd";
+import { Button, Card, Table } from "antd";
 import { useState } from "react";
 import CreateBill from "../components/cart/CreateBill.jsx";
 import Header from "../components/header/Header.jsx";
